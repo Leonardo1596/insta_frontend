@@ -123,6 +123,7 @@ form button {
     height: 35px;
     margin-top: 10px;
     width: 100%;
+    cursor: pointer;
 }
 
 /**
