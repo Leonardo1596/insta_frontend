@@ -16,7 +16,7 @@ const Index = () => {
                 email,
                 password
             };
-            const response = await axios.post('http://localhost:8000/auth/sign-up', body);
+            const response = await axios.post('https://insta-1d51.onrender.com/auth/sign-up', body);
         } catch (err) {
 
         }
